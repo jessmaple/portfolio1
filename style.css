@@ -7,6 +7,21 @@
 .topnav a {
     float: left;
     color: lightslategray; 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: chocolate;
+   color: lightcoral;
+}
+
+.topnav a.active {
+    .topnav a.active 
+        background-color: #4CADF50
+        color: magenta;
 }
 
     padding: 0;
